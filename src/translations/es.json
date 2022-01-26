@@ -1,0 +1,24 @@
+{
+  "description": "Desarrollo Web | Diseño Gráfico",
+  "nav": {
+      "home": "Inicio",
+      "about": "Sobre mí",
+      "portfolio": "Trabajos",
+      "contact": "Contacto"
+  },
+  "home": {
+      "line1": "Diseño &amp; Desarrollo Web^2000",
+      "line2": "Diseño Editorial^2000",
+      "line3": "Diseño Corporativo^2000"
+  },
+  "about": {
+      "title": "Un poco sobre mí",
+      "description1": "Soy Yermain Araya, desarrolladora web y diseñadora gráfica ubicada en Santiago, Chile.",
+      "description2": "Tengo experiencia en un amplio abanico de disciplinas, tales como el diseño editorial, desarrollo de software e incluso lingüística. Ciertamente estoy ansiosa por aprender mucho más.",
+      "moreInfo": "¿Quieres saber más?"
+  },
+  "portfolio": {
+      "all": "Ver todo",
+      "corporate": "Corporativo"
+  }
+}
