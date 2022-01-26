@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2426 1211.2" style="enable-background:new 0 0 2426 1211.2;" xml:space="preserve">
+<style type="text/css">
+    #lineas line {
+        fill:none;
+        stroke-width:3;
+        stroke-dasharray: 3000;
+        stroke-dashoffset: 3000;
+        animation: progress 2.5s ease forwards;
+    }
+
+  #logo {
+    opacity: 0;
+    animation: appear 3s ease forwards;
+    animation-delay: 1.2s;
+  }
+
+  #logo line {
+    stroke-width:3;
+    stroke: #CCC;
+  }
+
+  #lineas line:nth-child(odd) { stroke: #24BBCC; }
+  #lineas line:nth-child(even) { stroke:#F9298E; }
+
+  #lineas line.top:nth-child(4) { animation-delay: .3s; }
+  #lineas line.top:nth-child(6) { animation-delay: .8s; }
+
+  #lineas line.bottom:nth-child(1) { animation-delay: .4s; }
+  #lineas line.bottom:nth-child(3) { animation-delay: .7s; }
+
+  #lineas line.horizontal:nth-child(7) { animation-delay: .2s; }
+  #lineas line.horizontal:nth-child(9) { animation-delay: .8s; }
+
+  @keyframes progress {
+    0% { stroke-dashoffset: 3000 }
+    50% { stroke-dashoffset: 0 }
+    100% { stroke-dashoffset: -3000 }
+  }
+
+  @keyframes appear {
+    0% { opacity: 1; }
+    25% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+</style>
+<g id="logo">
+    <line class="bottom" x1="1145.2" y1="487.3" x2="1008.7" y2="723.9"/>
+    <line class="bottom" x1="1281.1" y1="487.6" x2="1145" y2="723.5"/>
+    <line class="bottom" x1="1349.1" y1="605.6" x2="1280.9" y2="723.7"/>
+
+    <line class="top" x1="1280.9" y1="487.5" x2="1349.1" y2="605.6"/>
+    <line class="top" x1="1144.9" y1="487.5" x2="1281.3" y2="723.9"/>
+    <line class="top" x1="1008.7" y1="487.3" x2="1145" y2="723.5"/>
+
+	<line class="horizontal" x1="1076.9" y1="605.6" x2="1349.1" y2="605.6"/>
+	<line class="horizontal" x1="1008.7" y1="723.9" x2="1281.3" y2="723.9"/>
+	<line class="horizontal" x1="1008.7" y1="487.3" x2="1281.3" y2="487.3"/>
+</g>
+<g id="lineas">
+    <line id="der-3" class="bottom" x1="999.9" y1="1210.7" x2="1698.2" y2="0.5"/>
+	<line id="der-2" class="bottom" x1="863.9" y1="1210.7" x2="1562.1" y2="0.5"/>
+	<line id="der-1" class="bottom" x1="727.8" y1="1210.7" x2="1426.1" y2="0.5"/>
+	<line id="izq-3" class="top" x1="999.9" y1="0.5" x2="1698.2" y2="1210.7"/>
+	<line id="izq-2" class="top" x1="863.9" y1="0.5" x2="1562.1" y2="1210.7"/>
+	<line id="izq-1" class="top" x1="727.8" y1="0.5" x2="1426.1" y2="1210.7"/>
+    <line id="horizontal-3" class="horizontal" x1="0" y1="723.9" x2="2426" y2="723.9"/>
+	<line id="horizontal-2" class="horizontal" x1="0" y1="605.6" x2="2426" y2="605.6"/>
+	<line id="horizontal-1" class="horizontal" x1="0" y1="487.3" x2="2426" y2="487.3"/>
+</g>
+
+</svg>
