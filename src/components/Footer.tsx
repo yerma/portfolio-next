@@ -1,10 +1,13 @@
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 
 const Footer = () => {
   const [open, toggleOpen] = useState(false)
+  const { t } = useTranslation()
+
   return (
     <footer className={`p-3 ${open ? 'active' : ''}`} onClick={() => toggleOpen(!open)}>
-        <h4><FormattedMessage id="nav.contact" /></h4>
+        <h4>{t('nav.contact')}</h4>
         <div className="d-flex">
             <div className="col-xs-12 col-md-6 row">
                 <a className="p-2 align-self-middle" href="mailto:yerma.araya@gmail.com">

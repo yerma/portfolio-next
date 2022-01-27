@@ -1,24 +1,26 @@
 {
-  "description": "Web Development | Graphic Design",
-  "nav": {
-    "home": "Home",
-    "about": "About",
-    "portfolio": "Works",
-    "contact": "Contact"
-  },
-  "home": {
-    "line1": "Web Development &amp; Design^2000",
-    "line2": "Editorial Design^2000",
-    "line3": "Corporate Design^2000"
-  },
-  "about": {
-    "title": "A few lines about me",
-    "description1": "I am Yermain Araya, a web developer and graphic designer located in Santiago, Chile.",
-    "description2": "I have experience in a wide range of disciplines, such as editorial design, software development and even linguistics(?). Certainly, I am eager to learn a lot more.",
-    "moreInfo": "Need more info?"
-  },
-  "portfolio": {
-    "all": "See all",
-    "corporate": "Corporate"
+  "translation": {
+    "description": "Web Development | Graphic Design",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "portfolio": "Works",
+      "contact": "Contact"
+    },
+    "home": {
+      "line1": "Web Development &amp; Design^2000",
+      "line2": "Editorial Design^2000",
+      "line3": "Corporate Design^2000"
+    },
+    "about": {
+      "title": "A few lines about me",
+      "description1": "I am Yermain Araya, a web developer and graphic designer located in Santiago, Chile.",
+      "description2": "I have experience in a wide range of disciplines, such as editorial design, software development and even linguistics(?). Certainly, I am eager to learn a lot more.",
+      "moreInfo": "Need more info?"
+    },
+    "portfolio": {
+      "all": "See all",
+      "corporate": "Corporate"
+    }
   }
 }
