@@ -13,6 +13,10 @@ const LanguageProvider = ({ children } ) => {
 
   useEffect(() => {
     i18nCb(lang)
+  }, [])
+
+  useEffect(() => {
+    i18nCb(lang)
   }, [lang])
 
   return <LanguageStateContext.Provider value={{ lang, setLang }}>

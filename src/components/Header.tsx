@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { useTranslation } from 'react-i18next'
 import { useLang } from '../providers/language-provider'
 import { useState } from 'react'
+import logo from '../../public/img/logo.png'
 
 const Header = () => {
   const [navOpen, toggleNavOpen] = useState(false)
@@ -13,7 +14,7 @@ const Header = () => {
     <nav className="navbar fixed-top navbar-expand-md px-md-5">
       <Link href="/">
         <a className="navbar-brand">
-          <Image className="d-inline-block align-top" src='/img/logo.png' layout="fill" alt="logo principal" />
+          <Image className="d-inline-block align-top" src={logo} alt="logo principal" />
           <h1 className="d-inline-block align-middle align-sm-top">Yermaín Araya</h1>
         </a>
       </Link>

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "orientacion1",
+    "title": "Orientación 1",
+    "client": "Tremün - Material Educativo y Capacitación",
+    "description": "Diseño editorial del texto para el estudiante y para el docente. Desarrollo de ilustración digital.",
+    "imgUrl": "portada-orientacion.jpg",
+    "category": "editorial",
+    "date": "2015",
+    "detailImgs": [
+      "portada-orientacion.jpg",
+      "interior-orientacion.jpg",
+      "interior-orientacion2.jpg"
+    ],
+    "link": "https://issuu.com/yermainarayavillacura/docs/muestra_orientaci__n_1"
+  },
+  {
+    "id": "web-chirimoya",
+    "title": "Web Chirimoya Estudio",
+    "client": "Chirimoya Estudio Creativo",
+    "description": "Sitio web en base a HTML5, CSS y JavaScript.",
+    "imgUrl": "chirimoya-01.jpg",
+    "category": "web",
+    "date": "2017",
+    "detailImgs": [
+      "chirimoya-01.jpg",
+      "chirimoya-02.jpg",
+      "chirimoya-03.jpg"
+    ],
+    "link": "http://www.chirimoyaestudio.cl"
+  },
+  {
+    "id": "branding-tremun",
+    "title": "Diseño Corporativo Tremün",
+    "client": "Tremün - Material Educativo",
+    "description": "Desarrollo de identidad corporativa.",
+    "imgUrl": "tarjeta-presentacion.jpg",
+    "category": "branding",
+    "date": "2015",
+    "detailImgs": [
+      "tarjeta-presentacion.jpg",
+      "logo-tremun.jpg"
+    ]
+  },
+  {
+    "id": "libro-franklin",
+    "title": "Barrio Franklin",
+    "client": "Taller de Edición de Publicaciones - Duoc UC",
+    "description": "Investigación, fotografía, edición del libro, diseño de packaging y encuadernación.",
+    "imgUrl": "franklin-02.jpg",
+    "category": "editorial",
+    "date": "2015",
+    "detailImgs": [
+      "franklin-01.jpg",
+      "franklin-04.jpg",
+      "franklin-03.jpg"
+    ],
+    "link": "https://issuu.com/yermainarayavillacura/docs/barrio_franklin"
+  },
+  {
+    "id": "web-animals",
+    "title": "Animals",
+    "client": "",
+    "description": "Juego interactivo para preescolares",
+    "imgUrl": "animals-02.jpg",
+    "category": "web",
+    "date": "2017",
+    "detailImgs": [
+      "animals-01.jpg",
+      "animals-02.jpg"
+    ],
+    "link": "https://yerma.github.io/animals/"
+  },
+  {
+    "id": "web-tremun",
+    "title": "Web Tremün",
+    "client": "Tremün - Material Educativo",
+    "description": "Sitio web en base a HTML5, CSS y JavaScript.",
+    "imgUrl": "webtremun-01.jpg",
+    "category": "web",
+    "date": "2017",
+    "detailImgs": [
+      "webtremun-01.jpg",
+      "webtremun-02.jpg"
+    ],
+    "link": "https://yerma.github.io/webtremun/"
+  },
+  {
+    "id": "una-noche",
+    "title": "Una Noche: el juego",
+    "client": "Proyectos de Innovación, Duoc UC",
+    "description": "Landing page para juego sobre educación sexual",
+    "imgUrl": "una-noche-02.jpg",
+    "category": "web",
+    "date": "2017",
+    "detailImgs": [
+      "una-noche-01.jpg",
+      "una-noche-02.jpg"
+    ],
+    "link": "https://nanynn.github.io/una-noche/"
+  },
+  {
+    "id": "branding-ente",
+    "title": "Diseño Corporativo ENTE Ink",
+    "client": "Taller de Identidad Visual, Duoc UC",
+    "description": "Desarrollo de identidad visual para estudio tattoo",
+    "imgUrl": "ente-03.jpg",
+    "category": "branding",
+    "date": "2016",
+    "detailImgs": [
+      "ente-01.jpg",
+      "ente-02.jpg",
+      "ente-03.jpg"
+    ]
+  },
+  {
+    "id": "rev-fotografica",
+    "title": "Revolución Fotográfica",
+    "client": "Motion Graphics, Duoc UC",
+    "description": "Realizado en Adobe After Effects",
+    "imgUrl": "rev-fotografica-01.jpg",
+    "category": "motion-graphics",
+    "date": "2016",
+    "detailImgs": [
+      "rev-fotografica-02.jpg",
+      "rev-fotografica-01.jpg"
+    ],
+    "link": "https://vimeo.com/192484323"
+  },
+  {
+    "id": "hechitos-a-mano",
+    "title": "Diseño Corporativo Hechitos a Mano",
+    "client": "Proyectos de Vinculación Laboral, Duoc UC",
+    "description": "Isologo para emprendimiento de reciclaje de jeans",
+    "imgUrl": "hechitos-a-mano-02.jpg",
+    "category": "branding",
+    "date": "2017",
+    "detailImgs": [
+      "hechitos-a-mano-02.jpg",
+      "hechitos-a-mano-03.jpg"
+    ]
+  }
+]
